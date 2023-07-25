@@ -1,0 +1,10 @@
+* cl-flat-tree
+
+Map a binary tree to a list.
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/noffle/cl-flat-tree.git   |
+| commit  | eb54647  |
+| systems | cl-flat-tree |
+|---------+-------------------------------------------|
+
