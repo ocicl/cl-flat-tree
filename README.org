@@ -5,5 +5,5 @@ Map a binary tree to a list.
 |---------+------------------------------------------------|
 | source  | git:https://github.com/noffle/cl-flat-tree.git |
 | commit  | eb54647                                        |
-| systems | (flat-tree)                                    |
+| systems | flat-tree                                      |
 |---------+------------------------------------------------|
